@@ -1,2 +1,2 @@
 Its a simple dashboard using only formulas.
-![image](https://github.com/user-attachments/assets/1609b338-b273-4aaf-bf68-a3b28fc78625)
+![Preview](https://github.com/user-attachments/assets/91329c14-2c1a-4504-ad72-156e828c4d6e)
